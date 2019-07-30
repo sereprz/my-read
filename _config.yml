@@ -1,38 +1,42 @@
-#Site configuration
-title: Read
-name:  Read Jekyll
-author: Anthony Stark
-work:  Developer
-year: 2018
+# Site configuration
+title: Serena Peruzzo
+name:  Serena Peruzzo
+author: Serena Peruzzo
+work:  Data Scientist
+year: 2019
 
 # Navigation
 nav1: "About"
-nav2: "Things I Can Do"
-nav3: "A Few Accomplishments"
+nav2: "Work"
+nav3: "Projects"
 
 # Section1
-sec1: "Read Jekyll"
-sec2: "Just an incredibly simple responsive template for Jekyll."
-sec3: "Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum."
+# namesmall: "Serena Peruzzo"
+tagline: "Data scientist. Recurse Center alumna. Travel junkie."
+bio: "Serena is a senior data scientist at the analytics consultancy Bardess, currently based in Toronto, Canada. Before joining Bardess, she has worked both in academia as an ML researcher and in the industry as a data science consultant on the Australian, British and Canadian markets. Serena is passionate about education, community and tech for good and she splits her free time between mentoring data science students, organizing meetups and volunteering."
 
 # Section 2
-sec4: "Things I Can Do"
-sec5: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet."
-icon1: "fas fa-code"
-icont1: "Write all the code"
-icon2: "fa-cubes"
-icont2: "Stack small boxes"
-icon3: "fa-book"
-icont3: "Read books and stuff"
-icon4: "fa-coffee"
-icont4: "Drink much coffee"
-icon5: "fa-bolt"
-icont5: "Lightning bolt"
-icon6: "fa-users"
-icont6: "Shadow clone technique"
+
+talks: [
+  ["https://www.thestrangeloop.com/2019/improving-law-interpretability-using-nlp.html", "Improving law interpretability using NLP", "Strange Loop 2019 (upcoming)"],
+  ["https://odsc.com/training/portfolio/analyzing-legislative-burden-upon-businesses-using-nlp-and-ml-2/", "Using NLP and ML to Analyze Legislative Burdens Upon Businesses", "ODSC East 2019, Boston"],
+  ["https://learnai.odsc.com/courses/odsc-east-2019-warm-up-open-source", "Using NLP and ML to Analyze Legislative Burdens Upon Businesses", "ODSC East 2019 Warm-Up: Open Source"],
+  ["https://www.youtube.com/watch?v=bmzck327cro", "Data Driven Literary Analysis", "PyData Amsterdam 2016"]
+]
+
+articles: [
+  ["https://opendatascience.com/using-nlp-and-ml-to-analyze-legislative-burdens-upon-businesses/", "Using NLP and ML to Analyze Legislative Burdens Upon Businesses", "Open Data Science blog, April 2019"],
+  ["https://recompilermag.com/issues/issue-6/data-cleaning-a-necessary-chore/", "Data Cleaning a Necessary Chore", "The Recompiler, Issue Six - March 2017"],
+  ["https://codewords.recurse.com/issues/seven/data-driven-literary-analysis", "Code Words, Issue Seven - October 2016", "Code Words, Issue Seven - October 2016"]
+]
+
+publications: [
+  ["S. Peruzzo, M. Holenderski & J. J. Lukkien, Pattern-based feature extraction for fault detection in quality relevant process control, ETFA 2017"],
+  ["C. Hull, E. Stark , S. Peruzzo & C. Sims, 2013, Avian collisions at two wind farms in Tasmania, Australia: Taxonomic and ecological characteristics of colliders versus non-colliders , New Zealand Journal of Zoology, 40:1, 47-62"]
+]
 
 # Section 3
-sec6: "A Few Accomplishments"
+sec6: "Projects"
 sec7: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
 sec8: "Possibly broke spacetime"
 sec9: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
@@ -42,8 +46,8 @@ sec12: "Snapped dark matter in the wild"
 sec13: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
 # Social Links
-facebook: username
-twitter:  username
+# facebook: username
+twitter:  sereprz
 #google: username
 #instagram: username
 #pinterest: username
@@ -51,12 +55,12 @@ twitter:  username
 #youtube: username
 #spotify: username
 #lastfm: username
-github: username
+github: sereprz
 #stackoverflow: username
 #quora: username
 #reddit: username
 #medium: username
 #vimeo: username
-keybase: username
-email: test@gmail.com
+#keybase: username
+email: serena.peruzzo@gmail.com
 

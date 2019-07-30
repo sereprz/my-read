@@ -1,12 +1,33 @@
 <div class="container">
-    <h3>{{site.sec4}}</h3>
-    <p>{{site.sec5}}</p>
+    <!-- <h3>{{site.sec4}}</h3> -->
+    <!-- <p>{{site.sec5}}</p> -->
     <ul class="feature-icons">
-        <li class="{{site.icon1}}">{{site.icont1}}</li>
-        <li class="{{site.icon2}}">{{site.icont2}}</li>
-        <li class="{{site.icon3}}">{{site.icont3}}</li>
-        <li class="{{site.icon4}}">{{site.icont4}}</li>
-        <li class="{{site.icon5}}">{{site.icont5}}</li>
-        <li class="{{site.icon6}}">{{site.icont6}}</li>
+        <li class="fa-code">
+            <h4>Resume</h4>
+        </li>
+        <li class="fa-microphone">
+            <h4>Speaking</h4>
+            <ul>
+                {% for talk in site.talks %}
+                    <li style="padding: 0.1em; margin: 0;"><a href="{{talk[0]}}">{{ talk[1] }}</a>, {{talk[2]}}</li>
+                {% endfor %}
+            </ul>
+        </li>
+        <li class="fa-pencil">
+            <h4>Writing</h4>
+            <ul>
+                {% for article in site.articles %}
+                    <li style="padding: 0.1em; margin: 0;"><a href="{{article[0]}}">{{article[1]}}</a>, {{article[2]}}</li>
+                {% endfor %}
+            </ul>
+        </li>
+        <li class="fa-book">
+            <h4>Publications</h4>
+            <ul>
+                {% for pub in site.publications %}
+                    <li style="padding: 0.1em; margin: 0;">{{pub[0]}}</li>
+                {% endfor %}
+            </ul>
+        </li>
     </ul>
 </div>
