@@ -1,9 +1,8 @@
 <div class="container">
-    <!-- <h3>{{site.sec4}}</h3> -->
-    <!-- <p>{{site.sec5}}</p> -->
     <ul class="feature-icons">
         <li class="fa-code">
-            <h4>Resume</h4>
+            <h4><a href="#">Resume</a></h4>
+            <p>For details about my background and professional experience see my cv <a href="https://docs.google.com/document/d/13DcrD5-DAucmTz5bUSW9nHUuJwjZo1PUy0Qwv5C1nO0/edit?usp=sharing" target="_blank">here</a></p>
         </li>
         <li class="fa-microphone">
             <h4>Speaking</h4>
@@ -22,7 +21,7 @@
             </ul>
         </li>
         <li class="fa-book">
-            <h4>Publications</h4>
+            <h4>Research</h4>
             <ul>
                 {% for pub in site.publications %}
                     <li style="padding: 0.1em; margin: 0;">{{pub[0]}}</li>
