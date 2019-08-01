@@ -37,7 +37,7 @@ publications: [
 # Projects
 
 proj1: "autosummary"
-proj1-link: http://www.serenaperuzzo.com/portfolio/autosummary/
+proj1-link: http://autosummary.serenaperuzzo.com/
 proj1-image: /assets/images/autosummary.jpg
 proj1-desc: "Document summarisation by keyphrase extraction: a simple algorithm for summarising the content of articles/web pages built in Flask"
 
