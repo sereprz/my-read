@@ -2600,13 +2600,13 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../assets/images/banner.jpg");
+		/*background-image: url("../../assets/images/banner.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size: cover;*/
 		content: '';
 		display: block;
-		height: 15em;
+		height: 1em;
 		width: 100%;
 	}
 

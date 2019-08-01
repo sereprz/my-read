@@ -1,0 +1,12 @@
+<div class="container">
+    <ul class="feature-icons">
+        <li class="fa-microphone">
+            <h4>Speaking</h4>
+            <ul>
+                {% for talk in site.talks %}
+                    <li style="padding: 0.1em; margin: 0;"><a href="{{talk[0]}}" target="_blank">{{ talk[1] }}</a>, {{talk[2]}}</li>
+                {% endfor %}
+            </ul>
+        </li>
+    </ul>
+</div>

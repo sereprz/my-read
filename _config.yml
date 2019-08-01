@@ -2,20 +2,15 @@
 title: Serena Peruzzo
 name:  Serena Peruzzo
 author: Serena Peruzzo
-work:  Data Scientist
+work: Currently based in Toronto
 year: 2019
 
-# Navigation
-nav1: "About"
-nav2: "Work"
-nav3: "Projects"
 
-# Section1
-# namesmall: "Serena Peruzzo"
 tagline: "Data scientist. Recurse Center alumna. Travel junkie."
 bio: "Serena is a senior data scientist at the analytics consultancy Bardess, currently based in Toronto, Canada. Before joining Bardess, she has worked both in academia as an ML researcher and in the industry as a data science consultant on the Australian, British and Canadian markets. Serena is passionate about education, community and tech for good and she splits her free time between mentoring data science students, organizing meetups and volunteering."
 
-# Section 2
+
+# Speaking
 
 talks: [
   ["https://www.thestrangeloop.com/2019/improving-law-interpretability-using-nlp.html", "Improving Law Interpretability Using NLP", "Strange Loop 2019 (upcoming)"],
@@ -24,26 +19,43 @@ talks: [
   ["https://www.youtube.com/watch?v=bmzck327cro", "Data Driven Literary Analysis", "PyData Amsterdam 2016"]
 ]
 
+# Writing
+
 articles: [
   ["https://opendatascience.com/using-nlp-and-ml-to-analyze-legislative-burdens-upon-businesses/", "Using NLP and ML to Analyze Legislative Burdens Upon Businesses", "Open Data Science blog, April 2019"],
   ["https://recompilermag.com/issues/issue-6/data-cleaning-a-necessary-chore/", "Data Cleaning a Necessary Chore", "The Recompiler, Issue Six - March 2017"],
   ["https://codewords.recurse.com/issues/seven/data-driven-literary-analysis", "Code Words, Issue Seven - October 2016", "Code Words, Issue Seven - October 2016"]
 ]
 
+# Research
+
 publications: [
-  ["S. Peruzzo, M. Holenderski & J. J. Lukkien, Pattern-based feature extraction for fault detection in quality relevant process control, ETFA 2017"],
-  ["C. Hull, E. Stark , S. Peruzzo & C. Sims, 2013, Avian collisions at two wind farms in Tasmania, Australia: Taxonomic and ecological characteristics of colliders versus non-colliders , New Zealand Journal of Zoology, 40:1, 47-62"]
+  ["S. Peruzzo, M. Holenderski & J. J. Lukkien, Pattern-based feature extraction for fault detection in quality relevant process control", "ETFA 2017", "/assets/docs/ETFA2017.pdf"],
+  ["C. Hull, E. Stark , S. Peruzzo & C. Sims, 2013, Avian collisions at two wind farms in Tasmania, Australia: Taxonomic and ecological characteristics of colliders versus non-colliders", "New Zealand Journal of Zoology, 40:1, 47-62", "https://www.tandfonline.com/doi/full/10.1080/03014223.2012.757243"]
 ]
 
-# Section 3
-sec6: "Projects"
-sec7: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
-sec8: "Possibly broke spacetime"
-sec9: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
-sec10: "Terraformed a small moon"
-sec11: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
-sec12: "Snapped dark matter in the wild"
-sec13: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
+# Projects
+
+proj1: "autosummary"
+proj1-link: http://www.serenaperuzzo.com/portfolio/autosummary/
+proj1-image: /assets/images/autosummary.jpg
+proj1-desc: "Document summarisation by keyphrase extraction: a simple algorithm for summarising the content of articles/web pages built in Flask"
+
+proj2: "Shakespeare Classifier"
+proj2-link: https://github.com/sereprz/ShakespeareTextAnalysis
+proj2-image: /assets/images/shakespeare.jpg
+proj2-desc: "Unsupervised document classification with LDA and KMeans in Python"
+
+proj3: "RC Social Interactions"
+proj3-link: http://rcsocial.serenaperuzzo.com/
+proj3-image: /assets/images/rcsocial.jpg
+proj3-desc: "A representation social interactions at Recurse Center using D3"
+
+proj4: "Baby Names Wizard"
+proj4-link: https://github.com/sereprz/BabyNamesWizard
+proj4-image: /assets/images/babynames.jpg
+proj4-desc: "Name popularity in the US: a visual exploration of the baby names in the US made in R using shiny and ggplot2"
+
 
 # Social Links
 # facebook: username
@@ -51,7 +63,7 @@ twitter:  sereprz
 #google: username
 #instagram: username
 #pinterest: username
-#linkedin: username
+linkedin: speruzzo
 #youtube: username
 #spotify: username
 #lastfm: username
