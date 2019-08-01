@@ -49,7 +49,7 @@ proj2-desc: "Unsupervised document classification with LDA and KMeans in Python"
 proj3: "RC Social Interactions"
 proj3-link: http://rcsocial.serenaperuzzo.com/
 proj3-image: /assets/images/rcsocial.jpg
-proj3-desc: "A representation social interactions at Recurse Center using D3"
+proj3-desc: "A representation of social interactions at Recurse Center using D3"
 
 proj4: "Baby Names Wizard"
 proj4-link: https://github.com/sereprz/BabyNamesWizard
