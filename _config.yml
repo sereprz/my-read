@@ -23,6 +23,7 @@ talks: [
 
 articles: [
   ["https://opendatascience.com/using-nlp-and-ml-to-analyze-legislative-burdens-upon-businesses/", "Using NLP and ML to Analyze Legislative Burdens Upon Businesses", "Open Data Science blog, April 2019"],
+  ["http://www.bardess.com/what-factors-matter-in-data-science-success/", "What Factors Matter in Data Science Success?", "Bardess blog, May 2018"],
   ["https://recompilermag.com/issues/issue-6/data-cleaning-a-necessary-chore/", "Data Cleaning a Necessary Chore", "The Recompiler, Issue Six - March 2017"],
   ["https://codewords.recurse.com/issues/seven/data-driven-literary-analysis", "Code Words, Issue Seven - October 2016", "Code Words, Issue Seven - October 2016"]
 ]
