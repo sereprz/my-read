@@ -55,7 +55,7 @@ proj3-desc: "A representation of social interactions at Recurse Center using D3"
 proj4: "Baby Names Wizard"
 proj4-link: https://github.com/sereprz/BabyNamesWizard
 proj4-image: /assets/images/babynames.jpg
-proj4-desc: "Name popularity in the US: a visual exploration of the baby names in the US made in R using shiny and ggplot2"
+proj4-desc: "Name popularity in the US: a visual exploration of baby names in the US made in R using shiny and ggplot2"
 
 
 # Social Links
