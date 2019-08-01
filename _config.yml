@@ -38,7 +38,7 @@ publications: [
 # Projects
 
 proj1: "autosummary"
-proj1-link: http://www.serenaperuzzo.com/portfolio/autosummary/
+proj1-link: http://autosummary.serenaperuzzo.com/
 proj1-image: /assets/images/autosummary.jpg
 proj1-desc: "Document summarisation by keyphrase extraction: a simple algorithm for summarising the content of articles/web pages built in Flask"
 
@@ -50,7 +50,7 @@ proj2-desc: "Unsupervised document classification with LDA and KMeans in Python"
 proj3: "RC Social Interactions"
 proj3-link: http://rcsocial.serenaperuzzo.com/
 proj3-image: /assets/images/rcsocial.jpg
-proj3-desc: "A representation social interactions at Recurse Center using D3"
+proj3-desc: "A representation of social interactions at Recurse Center using D3"
 
 proj4: "Baby Names Wizard"
 proj4-link: https://github.com/sereprz/BabyNamesWizard
@@ -77,3 +77,5 @@ github: sereprz
 #keybase: username
 email: serena.peruzzo@gmail.com
 
+
+theme: jekyll-theme-minimal
