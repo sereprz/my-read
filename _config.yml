@@ -13,7 +13,7 @@ bio: "Serena is a senior data scientist at the analytics consultancy Bardess, cu
 # Speaking
 
 talks: [
-  ["https://www.thestrangeloop.com/2019/improving-law-interpretability-using-nlp.html", "Improving Law Interpretability Using NLP", "Strange Loop 2019 (upcoming)"],
+  ["https://www.thestrangeloop.com/2019/improving-law-interpretability-using-nlp.html", "Improving Law Interpretability Using NLP", "Strange Loop 2019"],
   ["https://odsc.com/training/portfolio/analyzing-legislative-burden-upon-businesses-using-nlp-and-ml-2/", "Using NLP and ML to Analyze Legislative Burdens Upon Businesses", "ODSC East 2019, Boston"],
   ["https://learnai.odsc.com/courses/odsc-east-2019-warm-up-open-source", "Using NLP and ML to Analyze Legislative Burdens Upon Businesses", "ODSC East 2019 Warm-Up: Open Source"],
   ["https://www.youtube.com/watch?v=bmzck327cro", "Data Driven Literary Analysis", "PyData Amsterdam 2016"]
