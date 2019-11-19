@@ -13,8 +13,8 @@ bio: "Serena is a senior data scientist at the analytics consultancy Bardess, cu
 # Speaking
 
 talks: [
-  ["https://2019.pycon.ca/talks/talk-129/", "From Hot Mess To Information", "PyCon Canada 2019, upcoming"],
-  ["https://www.meetup.com/polyhackTO/events/265729815/", "From Hot Mess To Information", "Polyhack 24, upcoming"],
+  ["https://2019.pycon.ca/talks/talk-129/", "From Hot Mess To Information", "PyCon Canada 2019"],
+  ["https://www.meetup.com/polyhackTO/events/265729815/", "From Hot Mess To Information", "Polyhack 24"],
   ["https://www.youtube.com/watch?v=c-WTaLX4QzU", "Improving Law Interpretability Using NLP", "Strange Loop 2019"],
   ["https://odsc.com/training/portfolio/analyzing-legislative-burden-upon-businesses-using-nlp-and-ml-2/", "Using NLP and ML to Analyze Legislative Burdens Upon Businesses", "ODSC East 2019, Boston"],
   ["https://learnai.odsc.com/courses/odsc-east-2019-warm-up-open-source", "Using NLP and ML to Analyze Legislative Burdens Upon Businesses", "ODSC East 2019 Warm-Up: Open Source"],
