@@ -24,6 +24,7 @@ talks: [
 # Writing
 
 articles: [
+  ["https://towardsdatascience.com/using-nlp-to-understand-laws-95278624ae5", "Using NLP to understand laws", "Towards Data Science, November 2019"],
   ["https://opendatascience.com/using-nlp-and-ml-to-analyze-legislative-burdens-upon-businesses/", "Using NLP and ML to Analyze Legislative Burdens Upon Businesses", "Open Data Science blog, April 2019"],
   ["http://www.bardess.com/what-factors-matter-in-data-science-success/", "What Factors Matter in Data Science Success?", "Bardess blog, May 2018"],
   ["https://recompilermag.com/issues/issue-6/data-cleaning-a-necessary-chore/", "Data Cleaning a Necessary Chore", "The Recompiler, Issue Six - March 2017"],
