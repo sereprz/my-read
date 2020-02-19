@@ -13,6 +13,10 @@ bio: "Serena is a senior data scientist at the analytics consultancy Bardess, cu
 # Speaking
 
 talks: [
+  ["", "Making Prophecies with Data: Introduction to Time-Series Forecasting and Recent Developments", "ODSC East 2020 (Upcoming)"],
+  ["", "Feature engineering: the dark magic behind data science", "Oπe\n conf 2020 (Upcoming)"],
+  ["", "Making Prophecies with Data: Introduction to Time-Series Forecasting and Recent Developments", "Women in Data Science Silicon Valley 2020 (Upcoming)"],
+  ["", "Improving Law Interpretability with NLP", "PyLadies/PyData 2020 Kick-off"],
   ["https://2019.pycon.ca/talks/talk-129/", "From Hot Mess To Information", "PyCon Canada 2019"],
   ["https://www.meetup.com/polyhackTO/events/265729815/", "From Hot Mess To Information", "Polyhack 24"],
   ["https://www.youtube.com/watch?v=c-WTaLX4QzU", "Improving Law Interpretability Using NLP", "Strange Loop 2019"],
