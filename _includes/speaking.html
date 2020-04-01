@@ -4,7 +4,27 @@
             <h4>Speaking</h4>
             <ul>
                 {% for talk in site.talks %}
-                    <li style="padding: 0.1em; margin: 0;"><a href="{{talk[0]}}" target="_blank">{{ talk[1] }}</a>, {{talk[2]}}</li>
+                    <!-- <li style="padding: 0.1em; margin: 0;"><a href="{{talk[0]}}" target="_blank">{{ talk[1] }}</a>, {{talk[2]}}</li> -->
+                    <li style="padding: 0.1em; margin: 0;">
+                    {{talk[0]}}, 
+                    {% if talk[2] != "" %}
+                        <a href="{{talk[2]}}" target="_blank">{{talk[1]}}</a>
+                    {% else %}
+                        {{talk[1]}}
+                    {% endif %}
+                    {% if talk[3] != '' or talk[4] != '' %}
+                        (
+                            {% if talk[3] != '' %}
+                                <a href="{{talk[3]}}" target="_blank">video</a>
+                            {% endif %}
+                            {% if talk[3] != '' and talk[4] != '' %}
+                                , 
+                            {% endif %}
+                            {% if talk[4] != '' %}
+                                <a href="{{talk[4]}}" target="_blank">slides</a>
+                            {% endif %}
+                        )
+                    {% endif %}</li>
                 {% endfor %}
             </ul>
         </li>
